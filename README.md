@@ -16,6 +16,7 @@
 | Package    | Description | Author  |
 | --------   | -------     | ------- |
 | [unocss-transformer-alias](https://github.com/unpreset/unocss-transformer-alias) | Transform alias for UnoCSS shortcuts | [@zyyv](https://github.com/zyyv) |
+| [unocss-transformer-hash](https://github.com/unpreset/unocss-transformer-hash) | Hash UnoCSS utilities. | [@zyyv](https://github.com/zyyv) |
 
 
 ## Community UI library
